@@ -9,6 +9,7 @@ This project will only cover the audio part using AVFoundation
 Key Terms used: 
 
 Audio Category :  category defines a set of audio behaviors
+Audio session: 
 
 ## What you need to add audio 
 
@@ -36,3 +37,4 @@ import AVFoundation
 let session = AVAudioSession.sharedInstance()
 ```
 4. Set the  Audio Category
+
