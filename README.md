@@ -11,7 +11,7 @@ Key Terms used:
 Audio Category :  category defines a set of audio behaviors
 Audio session: 
 
-## What you need to add audio 
+### What you need to add audio 
 
 - Audio Settings
 - Audio File
@@ -19,7 +19,7 @@ Audio session:
 ------------------------------
 In this project i will create a project where the penguin is talking 
 
-##STEPS 
+## STEPS 
 1. Enable AVAudio Session , you may want to add this in the app delegate 
 ```swift
 class AppDelegate: NSObject, UIApplicationDelegate {
